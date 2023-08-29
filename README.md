@@ -1,2 +1,2 @@
 # Movie_Lens_DA
-Movie Lens 25M data analysis
+Movie Lens 1M data analysis
